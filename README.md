@@ -34,5 +34,5 @@ I used Tableau Public for Data Visualization and I created a Dashboard you can v
 
 ![Tab2](https://user-images.githubusercontent.com/58610546/154729263-51a2346a-98c8-4e81-aff6-8534d136047f.PNG)
 
-### I really appreciate your time but I'm waiting for your opintion and recommendation for edits for continuos development.
+### I really appreciate your time but I'm waiting for your opintion and edits recommendation for continuos development.
 **Thank You**
